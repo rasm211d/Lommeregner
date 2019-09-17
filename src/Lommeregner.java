@@ -12,7 +12,7 @@ public class Lommeregner {
         return a / b;
     }
     public int secret(int a, int b) {
-        return 2 * a / 4 * b;
+        return 4 * a / b;
     }
 
 
